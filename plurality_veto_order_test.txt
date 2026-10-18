@@ -1,0 +1,260 @@
+PLURALITY VETO - VOTER ORDER SENSITIVITY TEST
+
+Number of runs: 50
+Completion seed: 42
+
+RESULT OF EACH RUN
+
+Run 1
+Order seed: 1
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 2
+Order seed: 2
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 3
+Order seed: 3
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 4
+Order seed: 4
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 5
+Order seed: 5
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 6
+Order seed: 6
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 7
+Order seed: 7
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 8
+Order seed: 8
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 9
+Order seed: 9
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 10
+Order seed: 10
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 11
+Order seed: 11
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 12
+Order seed: 12
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 13
+Order seed: 13
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 14
+Order seed: 14
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 15
+Order seed: 15
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 16
+Order seed: 16
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 17
+Order seed: 17
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 18
+Order seed: 18
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 19
+Order seed: 19
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 20
+Order seed: 20
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 21
+Order seed: 21
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 22
+Order seed: 22
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 23
+Order seed: 23
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 24
+Order seed: 24
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 25
+Order seed: 25
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 26
+Order seed: 26
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 27
+Order seed: 27
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 28
+Order seed: 28
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 29
+Order seed: 29
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 30
+Order seed: 30
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 31
+Order seed: 31
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 32
+Order seed: 32
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 33
+Order seed: 33
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 34
+Order seed: 34
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 35
+Order seed: 35
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 36
+Order seed: 36
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 37
+Order seed: 37
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 38
+Order seed: 38
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 39
+Order seed: 39
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 40
+Order seed: 40
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 41
+Order seed: 41
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 42
+Order seed: 42
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 43
+Order seed: 43
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 44
+Order seed: 44
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 45
+Order seed: 45
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 46
+Order seed: 46
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 47
+Order seed: 47
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 48
+Order seed: 48
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 49
+Order seed: 49
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+Run 50
+Order seed: 50
+Winner: 254286
+Elimination order: Write-in -> 258821 -> 258719 -> 254365 -> 257441 -> 254607 -> 254393 -> 255950 -> 254052 -> 257465 -> 254130
+
+WINNER FREQUENCY
+
+254286: 50/50 (100.00%)

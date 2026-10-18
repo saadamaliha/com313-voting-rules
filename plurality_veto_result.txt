@@ -1,0 +1,18 @@
+PLURALITY VETO RESULTS
+
+Random seed: 55
+
+Elimination order:
+Write-in
+258821
+258719
+254365
+254607
+257441
+254393
+255950
+254052
+257465
+254130
+
+Plurality Veto winner: 254286
